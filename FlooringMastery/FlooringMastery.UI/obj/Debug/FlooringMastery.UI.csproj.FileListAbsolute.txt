@@ -1,0 +1,17 @@
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section5\FlooringMastery\FlooringMastery.UI\obj\Debug\FlooringMastery.UI.csprojResolveAssemblyReference.cache
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section5\FlooringMastery\FlooringMastery.UI\bin\Debug\FlooringMastery.UI.exe.config
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section5\FlooringMastery\FlooringMastery.UI\bin\Debug\FlooringMastery.UI.exe
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section5\FlooringMastery\FlooringMastery.UI\bin\Debug\FlooringMastery.UI.pdb
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section5\FlooringMastery\FlooringMastery.UI\bin\Debug\FlooringMastery.BLL.dll
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section5\FlooringMastery\FlooringMastery.UI\bin\Debug\FlooringMastery.Data.dll
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section5\FlooringMastery\FlooringMastery.UI\bin\Debug\FlooringMastery.Models.dll
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section5\FlooringMastery\FlooringMastery.UI\bin\Debug\Ninject.dll
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section5\FlooringMastery\FlooringMastery.UI\bin\Debug\nunit.framework.dll
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section5\FlooringMastery\FlooringMastery.UI\bin\Debug\FlooringMastery.BLL.pdb
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section5\FlooringMastery\FlooringMastery.UI\bin\Debug\FlooringMastery.Data.pdb
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section5\FlooringMastery\FlooringMastery.UI\bin\Debug\FlooringMastery.Models.pdb
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section5\FlooringMastery\FlooringMastery.UI\bin\Debug\Ninject.xml
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section5\FlooringMastery\FlooringMastery.UI\bin\Debug\nunit.framework.xml
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section5\FlooringMastery\FlooringMastery.UI\obj\Debug\FlooringMastery.UI.exe
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section5\FlooringMastery\FlooringMastery.UI\obj\Debug\FlooringMastery.UI.pdb
+C:\Users\Jason\Desktop\Development\Repos\swcguild\jason-hanson-individual-work\OOP\Section5\FlooringMastery\FlooringMastery.UI\obj\Debug\FlooringMastery.UI.csprojResolveAssemblyReference.cache

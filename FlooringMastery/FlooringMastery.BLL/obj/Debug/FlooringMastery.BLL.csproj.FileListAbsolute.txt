@@ -1,0 +1,11 @@
+C:\Users\Jason\Desktop\Development\Repos\swcguild\jason-hanson-individual-work\OOP\Section5\FlooringMastery\FlooringMastery.BLL\obj\Debug\FlooringMastery.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\Development\Repos\swcguild\jason-hanson-individual-work\OOP\Section5\FlooringMastery\FlooringMastery.BLL\bin\Debug\ClassLibrary1.dll
+C:\Users\Jason\Desktop\Development\Repos\swcguild\jason-hanson-individual-work\OOP\Section5\FlooringMastery\FlooringMastery.BLL\bin\Debug\ClassLibrary1.pdb
+C:\Users\Jason\Desktop\Development\Repos\swcguild\jason-hanson-individual-work\OOP\Section5\FlooringMastery\FlooringMastery.BLL\bin\Debug\FlooringMastery.Data.dll
+C:\Users\Jason\Desktop\Development\Repos\swcguild\jason-hanson-individual-work\OOP\Section5\FlooringMastery\FlooringMastery.BLL\bin\Debug\FlooringMastery.Models.dll
+C:\Users\Jason\Desktop\Development\Repos\swcguild\jason-hanson-individual-work\OOP\Section5\FlooringMastery\FlooringMastery.BLL\bin\Debug\Ninject.dll
+C:\Users\Jason\Desktop\Development\Repos\swcguild\jason-hanson-individual-work\OOP\Section5\FlooringMastery\FlooringMastery.BLL\bin\Debug\FlooringMastery.Data.pdb
+C:\Users\Jason\Desktop\Development\Repos\swcguild\jason-hanson-individual-work\OOP\Section5\FlooringMastery\FlooringMastery.BLL\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\Jason\Desktop\Development\Repos\swcguild\jason-hanson-individual-work\OOP\Section5\FlooringMastery\FlooringMastery.BLL\bin\Debug\Ninject.xml
+C:\Users\Jason\Desktop\Development\Repos\swcguild\jason-hanson-individual-work\OOP\Section5\FlooringMastery\FlooringMastery.BLL\obj\Debug\ClassLibrary1.dll
+C:\Users\Jason\Desktop\Development\Repos\swcguild\jason-hanson-individual-work\OOP\Section5\FlooringMastery\FlooringMastery.BLL\obj\Debug\ClassLibrary1.pdb
